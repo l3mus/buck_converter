@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      lemus
+HostName                       csimcluster.ee.unlv.edu
+ProcessIdentifier              28423
+ProcessCreationTime_UTC        1480306176
+ProcessCreationTime_Readable   Sun Nov 27 20:09:36 2016 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/lemus/CMOSedu/buck_converter/buffer/layout/layout.oa.cdslck
+TimeEditLocked                 Sun Nov 27 23:27:08 2016 PST

@@ -1,0 +1,3 @@
+projectDir = '"~/cadence/simulation"
+designInfo = '("bandgap" "sim_parasitic_pnp" "schematic" "spectre")
+descriptionText = "None"
